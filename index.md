@@ -8,22 +8,7 @@ Duyu served on the program committees of top NLP/AI conferences: ACL (2016-2020)
 
 
 
-## Publications and Preprints
-
-### Preprint/Workshop
-<ol>
-<li>Zhangyin Feng, Daya Guo, Duyu Tang, Nan Duan, Xiaocheng Feng, Ming Gong, Linjun Shou, Bing Qin, Ting Liu, Daxin Jiang, Ming Zhou. CodeBERT: A Pre-Trained Model for Programming and Natural Languages. arxiv, 2020</li>
-<li>Ruize Wang, Duyu Tang, Nan Duan, Zhongyu Wei, Xuanjing Huang, Jianshu ji, Guihong Cao, Daxin Jiang, Ming Zhou. K-Adapter: Infusing Knowledge into Pre-Trained Models with Adapters. arxiv, 2020</li>
-<li>Ruize Wang, Duyu Tang, Nan Duan, Wanjun Zhong, Zhongyu Wei, Xuanjing Huang, Daxin Jiang, Ming Zhou. Leveraging Declarative Knowledge in Text and First-Order Logic for Fine-Grained Propaganda Detection. arxiv, 2020</li>
-<li>Wanjun Zhong, Duyu Tang, Nan Duan, Ming Zhou, Jiahai Wang, Jian Yin. A Heterogeneous Graph with Factual, Temporal and Logical Knowledge for Question Answering Over Dynamic Contexts. arxiv, 2020</li>
-<li>Daya Guo, Akari Asai, Duyu Tang, Nan Duan, Ming Gong, Linjun Shou, Daxin Jiang, Jian Yin, Ming Zhou. Inferential Text Generation with Multiple Knowledge Sources and Meta-Learning. arxiv, 2020</li>
-<li>Shangwen Lv, Yuechen Wang, Daya Guo, Duyu Tang, Nan Duan, Fuqing Zhu, Ming Gong, Linjun Shou, Ryan Ma, Daxin Jiang, Guihong Cao, Ming Zhou, Songlin Hu. Pre-training Text Representations as Meta Learning. arxiv, 2020</li>
-  <li>Duyu Tang, Nan Duan, Tao Qin, Zhao Yan, Yibo Sun, Ming Zhou. Question answering and question generation as dual tasks. 2017. arxiv</li>
-<li>Duyu Tang. Sentiment-Specific Representation Learning for Document-Level Sentiment Analysis. Proceedings of the Eighth ACM International Conference on Web Search and Data Mining (WSDM 2015, Doctoral Consortium).
-</li>
- 	<li>Duyu Tang, Furu Wei, Bing Qin, Ting Liu, Ming Zhou. Coooolll: A Deep Learning System for Twitter Sentiment Classification. Proceedings of the 8th International Workshop on Semantic Evaluation (SemEval 2014, the second place among 45 participants)</li>
-<li>Chenfei Wu, Yanzhao Zhou, Gen Li, Nan Duan, Duyu Tang, Xiaojie Wang. Deep Reason: A Strong Baseline for Real-World Visual Reasoning. arxiv 2019.</li>
-</ol>
+## Publications
 
 ### Conference/Journal
 <ol>
@@ -68,8 +53,30 @@ Duyu served on the program committees of top NLP/AI conferences: ACL (2016-2020)
  	<li>Duyu Tang, Bing Qin, Ting Liu, Zhenghua Li. Learning Sentence Representation for Emotion Classification on Microblogs. The 2nd Conference on Natural Language Processing and Chinese Computing (NLPCC 2013, full paper)</li>
 </ol>
 
+### Preprint/Workshop
+<ol>
+<li>Zhangyin Feng, Daya Guo, Duyu Tang, Nan Duan, Xiaocheng Feng, Ming Gong, Linjun Shou, Bing Qin, Ting Liu, Daxin Jiang, Ming Zhou. CodeBERT: A Pre-Trained Model for Programming and Natural Languages. arxiv, 2020</li>
+<li>Ruize Wang, Duyu Tang, Nan Duan, Zhongyu Wei, Xuanjing Huang, Jianshu ji, Guihong Cao, Daxin Jiang, Ming Zhou. K-Adapter: Infusing Knowledge into Pre-Trained Models with Adapters. arxiv, 2020</li>
+<li>Ruize Wang, Duyu Tang, Nan Duan, Wanjun Zhong, Zhongyu Wei, Xuanjing Huang, Daxin Jiang, Ming Zhou. Leveraging Declarative Knowledge in Text and First-Order Logic for Fine-Grained Propaganda Detection. arxiv, 2020</li>
+<li>Wanjun Zhong, Duyu Tang, Nan Duan, Ming Zhou, Jiahai Wang, Jian Yin. A Heterogeneous Graph with Factual, Temporal and Logical Knowledge for Question Answering Over Dynamic Contexts. arxiv, 2020</li>
+<li>Daya Guo, Akari Asai, Duyu Tang, Nan Duan, Ming Gong, Linjun Shou, Daxin Jiang, Jian Yin, Ming Zhou. Inferential Text Generation with Multiple Knowledge Sources and Meta-Learning. arxiv, 2020</li>
+<li>Shangwen Lv, Yuechen Wang, Daya Guo, Duyu Tang, Nan Duan, Fuqing Zhu, Ming Gong, Linjun Shou, Ryan Ma, Daxin Jiang, Guihong Cao, Ming Zhou, Songlin Hu. Pre-training Text Representations as Meta Learning. arxiv, 2020</li>
+  <li>Duyu Tang, Nan Duan, Tao Qin, Zhao Yan, Yibo Sun, Ming Zhou. Question answering and question generation as dual tasks. 2017. arxiv</li>
+<li>Duyu Tang. Sentiment-Specific Representation Learning for Document-Level Sentiment Analysis. Proceedings of the Eighth ACM International Conference on Web Search and Data Mining (WSDM 2015, Doctoral Consortium).
+</li>
+ 	<li>Duyu Tang, Furu Wei, Bing Qin, Ting Liu, Ming Zhou. Coooolll: A Deep Learning System for Twitter Sentiment Classification. Proceedings of the 8th International Workshop on Semantic Evaluation (SemEval 2014, the second place among 45 participants)</li>
+<li>Chenfei Wu, Yanzhao Zhou, Gen Li, Nan Duan, Duyu Tang, Xiaojie Wang. Deep Reason: A Strong Baseline for Real-World Visual Reasoning. arxiv 2019.</li>
+</ol>
 
 ## Post about works from my group
+<ol>
+  <li>
+  <li>
+  <li>
+  <li>
+  <li>
+  <li>
+  </ol>
 <a href="https://baijiahao.baidu.com/s?id=1659148499039690259&wfr=spider&for=pc">CodeBERT: 面向编程语言的预训练模型 (written by 雷锋网)</a>
 
 <a href="https://www.msra.cn/zh-cn/news/features/machine-reasoning-conversational-qa-semantic-parsing">基于推理的多轮语义分析和问答</a>
