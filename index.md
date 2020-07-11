@@ -6,7 +6,13 @@ Duyu joined Microsoft in 2016, after receiving his Ph.D. and M.S. in Computer Sc
 
 Duyu served on the program committees of top NLP/AI conferences: ACL (2016-2020), EMNLP (2015-2020), NeurIPS (2018/2020), TACL (2020-2022), NAACL (2018/2019). He was an area chair for EMNLP 2020. Duyu is recognized as the <a href="https://www.aminer.org/ai2000/nlp">Most Influential Scholar Award Honorable Mention</a> (Rank #65 2009–2019) by AMiner.
 
-### Markdown
+## Post about works from my group
+<a href="https://baijiahao.baidu.com/s?id=1659148499039690259&wfr=spider&for=pc">CodeBERT: 面向编程语言的预训练模型 (written by 雷锋网)</a>
+<a href="https://www.msra.cn/zh-cn/news/features/machine-reasoning-conversational-qa-semantic-parsing">基于推理的多轮语义分析和问答</a>
+<a href="https://www.msra.cn/zh-cn/news/features/machine-reasoning-for-fact-checking">机器推理在事实检测任务中的应用</a>
+<a href="https://www.msra.cn/zh-cn/news/features/machine-reasoning-for-commonsense-question-answering">机器推理在常识问答任务中的应用</a>
+<a href="https://www.msra.cn/zh-cn/news/features/table-intelligence">面向表格的自然语言理解与生成</a>
+<a href="https://www.msra.cn/zh-cn/news/features/acl-2018-semantic-parsing-with-syntax-and-table-aware-sql-generation">融合SQL语法的生成式语义解析模型</a>
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
