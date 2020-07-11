@@ -76,7 +76,7 @@ Recent works could be found from my <a href="https://scholar.google.com/citation
   <li><a href="https://www.msra.cn/zh-cn/news/features/machine-reasoning-for-commonsense-question-answering">机器推理在常识问答任务中的应用</a>
   <li><a href="https://www.msra.cn/zh-cn/news/features/table-intelligence">面向表格的自然语言理解与生成</a>
   <li><a href="https://www.msra.cn/zh-cn/news/features/acl-2018-semantic-parsing-with-syntax-and-table-aware-sql-generation">融合SQL语法的生成式语义解析模型</a>
-  </ol>
+</ol>
 
 
 
