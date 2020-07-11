@@ -9,7 +9,7 @@ Duyu served on the program committees of top NLP/AI conferences: ACL (2016-2020)
 
 ## Publications and Preprints
 
-<strong>Preprint</strong>
+### Preprint
 <ol>
 <li>Zhangyin Feng, Daya Guo, Duyu Tang, Nan Duan, Xiaocheng Feng, Ming Gong, Linjun Shou, Bing Qin, Ting Liu, Daxin Jiang, Ming Zhou. CodeBERT: A Pre-Trained Model for Programming and Natural Languages. arxiv, 2020</li>
 <li>Ruize Wang, Duyu Tang, Nan Duan, Zhongyu Wei, Xuanjing Huang, Jianshu ji, Guihong Cao, Daxin Jiang, Ming Zhou. K-Adapter: Infusing Knowledge into Pre-Trained Models with Adapters. arxiv, 2020</li>
@@ -19,7 +19,7 @@ Duyu served on the program committees of top NLP/AI conferences: ACL (2016-2020)
 <li>Shangwen Lv, Yuechen Wang, Daya Guo, Duyu Tang, Nan Duan, Fuqing Zhu, Ming Gong, Linjun Shou, Ryan Ma, Daxin Jiang, Guihong Cao, Ming Zhou, Songlin Hu. Pre-training Text Representations as Meta Learning. arxiv, 2020</li>
 </ol>
 
-<strong>Conference/Journal</strong>
+### Conference/Journal
 <ol>
 <li>Daya Guo, Duyu Tang, Nan Duan, Jian Yin, Daxin Jiang and Ming Zhou. Evidence-Aware Inferential Text Generation with Vector Quantised Variational AutoEncoder. ACL. 2020</li>
 <li>Wanjun Zhong, Duyu Tang, Zhangyin Feng, Nan Duan, Ming Zhou, Ming Gong, Linjun Shou, Daxin Jiang, Jiahai Wang and Jian Yin. LogicalFactChecker: Leveraging Logical Operations for Fact Checking with Graph Module Network. ACL. 2020</li>
@@ -62,7 +62,7 @@ Duyu served on the program committees of top NLP/AI conferences: ACL (2016-2020)
  	<li>Duyu Tang, Bing Qin, Ting Liu, Zhenghua Li. Learning Sentence Representation for Emotion Classification on Microblogs. The 2nd Conference on Natural Language Processing and Chinese Computing (NLPCC 2013, full paper)</li>
 </ol>
 
-<strong>Others</strong>
+### Others
 <ol>
  <li>Duyu Tang, Nan Duan, Tao Qin, Zhao Yan, Yibo Sun, Ming Zhou. Question answering and question generation as dual tasks. 2017. arxiv</li>
 <li>Duyu Tang. Sentiment-Specific Representation Learning for Document-Level Sentiment Analysis. Proceedings of the Eighth ACM International Conference on Web Search and Data Mining (WSDM 2015, Doctoral Consortium).
@@ -73,7 +73,9 @@ Duyu served on the program committees of top NLP/AI conferences: ACL (2016-2020)
 
 ## Post about works from my group
 <a href="https://baijiahao.baidu.com/s?id=1659148499039690259&wfr=spider&for=pc">CodeBERT: 面向编程语言的预训练模型 (written by 雷锋网)</a>
+
 <a href="https://www.msra.cn/zh-cn/news/features/machine-reasoning-conversational-qa-semantic-parsing">基于推理的多轮语义分析和问答</a>
+
 <a href="https://www.msra.cn/zh-cn/news/features/machine-reasoning-for-fact-checking">机器推理在事实检测任务中的应用</a>
 
 <a href="https://www.msra.cn/zh-cn/news/features/machine-reasoning-for-commonsense-question-answering">机器推理在常识问答任务中的应用</a>
@@ -82,32 +84,7 @@ Duyu served on the program committees of top NLP/AI conferences: ACL (2016-2020)
 
 <a href="https://www.msra.cn/zh-cn/news/features/acl-2018-semantic-parsing-with-syntax-and-table-aware-sql-generation">融合SQL语法的生成式语义解析模型</a>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tangduyu/tangduyu.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Contact
+Email: dutang@microsoft.com
