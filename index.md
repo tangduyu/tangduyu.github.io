@@ -78,16 +78,12 @@ Recent works could be found from my <a href="https://scholar.google.com/citation
   <li><a href="https://www.msra.cn/zh-cn/news/features/acl-2018-semantic-parsing-with-syntax-and-table-aware-sql-generation">融合SQL语法的生成式语义解析模型</a>
 </ol>
 
-
-
-
-
 ## Talks
 <ol>
  <li> Give a tutorial together with Nan Duan and Ming Zhou on knowledge-based reasoning at EMNLP-2020, 16th –20th November 2020
-  <li> Give a tutorial on Interpretable NLP with knowledge-based reasoning at NLPCC-2020, 14th - 18th October, 2020
-   <li> Give a tutorial on machine reasoning at CAAI-AIDL （中国人工智能学会-AI前沿讲习班）, Shanghai, Dec 14-15, 2019
-    <li> Give a tutorial on semantic parsing at CIPS-ATT （中国中文信息学会-前沿技术讲习班）, Beijing, July 12-13, 2019
+ <li> Give a tutorial on Interpretable NLP with knowledge-based reasoning at NLPCC-2020, 14th - 18th October, 2020
+ <li> Give a tutorial on machine reasoning at CAAI-AIDL （中国人工智能学会-AI前沿讲习班）, Shanghai, Dec 14-15, 2019
+ <li> Give a tutorial on semantic parsing at CIPS-ATT （中国中文信息学会-前沿技术讲习班）, Beijing, July 12-13, 2019
 </ol>
 
 ## Contact
