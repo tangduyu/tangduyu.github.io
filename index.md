@@ -87,4 +87,4 @@ Recent works could be found from my <a href="https://scholar.google.com/citation
 </ol>
 
 ## Contact
-Email: dutang@microsoft.com1
+Email: dutang@microsoft.com
