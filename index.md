@@ -10,7 +10,7 @@ Duyu served on the program committees of top NLP/AI conferences: ACL (2016-2020)
 
 ## Publications and Preprints
 
-### Preprint
+### Preprint/Workshop
 <ol>
 <li>Zhangyin Feng, Daya Guo, Duyu Tang, Nan Duan, Xiaocheng Feng, Ming Gong, Linjun Shou, Bing Qin, Ting Liu, Daxin Jiang, Ming Zhou. CodeBERT: A Pre-Trained Model for Programming and Natural Languages. arxiv, 2020</li>
 <li>Ruize Wang, Duyu Tang, Nan Duan, Zhongyu Wei, Xuanjing Huang, Jianshu ji, Guihong Cao, Daxin Jiang, Ming Zhou. K-Adapter: Infusing Knowledge into Pre-Trained Models with Adapters. arxiv, 2020</li>
@@ -18,6 +18,11 @@ Duyu served on the program committees of top NLP/AI conferences: ACL (2016-2020)
 <li>Wanjun Zhong, Duyu Tang, Nan Duan, Ming Zhou, Jiahai Wang, Jian Yin. A Heterogeneous Graph with Factual, Temporal and Logical Knowledge for Question Answering Over Dynamic Contexts. arxiv, 2020</li>
 <li>Daya Guo, Akari Asai, Duyu Tang, Nan Duan, Ming Gong, Linjun Shou, Daxin Jiang, Jian Yin, Ming Zhou. Inferential Text Generation with Multiple Knowledge Sources and Meta-Learning. arxiv, 2020</li>
 <li>Shangwen Lv, Yuechen Wang, Daya Guo, Duyu Tang, Nan Duan, Fuqing Zhu, Ming Gong, Linjun Shou, Ryan Ma, Daxin Jiang, Guihong Cao, Ming Zhou, Songlin Hu. Pre-training Text Representations as Meta Learning. arxiv, 2020</li>
+  <li>Duyu Tang, Nan Duan, Tao Qin, Zhao Yan, Yibo Sun, Ming Zhou. Question answering and question generation as dual tasks. 2017. arxiv</li>
+<li>Duyu Tang. Sentiment-Specific Representation Learning for Document-Level Sentiment Analysis. Proceedings of the Eighth ACM International Conference on Web Search and Data Mining (WSDM 2015, Doctoral Consortium).
+</li>
+ 	<li>Duyu Tang, Furu Wei, Bing Qin, Ting Liu, Ming Zhou. Coooolll: A Deep Learning System for Twitter Sentiment Classification. Proceedings of the 8th International Workshop on Semantic Evaluation (SemEval 2014, the second place among 45 participants)</li>
+<li>Chenfei Wu, Yanzhao Zhou, Gen Li, Nan Duan, Duyu Tang, Xiaojie Wang. Deep Reason: A Strong Baseline for Real-World Visual Reasoning. arxiv 2019.</li>
 </ol>
 
 ### Conference/Journal
@@ -63,14 +68,6 @@ Duyu served on the program committees of top NLP/AI conferences: ACL (2016-2020)
  	<li>Duyu Tang, Bing Qin, Ting Liu, Zhenghua Li. Learning Sentence Representation for Emotion Classification on Microblogs. The 2nd Conference on Natural Language Processing and Chinese Computing (NLPCC 2013, full paper)</li>
 </ol>
 
-### Others
-<ol>
- <li>Duyu Tang, Nan Duan, Tao Qin, Zhao Yan, Yibo Sun, Ming Zhou. Question answering and question generation as dual tasks. 2017. arxiv</li>
-<li>Duyu Tang. Sentiment-Specific Representation Learning for Document-Level Sentiment Analysis. Proceedings of the Eighth ACM International Conference on Web Search and Data Mining (WSDM 2015, Doctoral Consortium).
-</li>
- 	<li>Duyu Tang, Furu Wei, Bing Qin, Ting Liu, Ming Zhou. Coooolll: A Deep Learning System for Twitter Sentiment Classification. Proceedings of the 8th International Workshop on Semantic Evaluation (SemEval 2014, the second place among 45 participants)</li>
-<li>Chenfei Wu, Yanzhao Zhou, Gen Li, Nan Duan, Duyu Tang, Xiaojie Wang. Deep Reason: A Strong Baseline for Real-World Visual Reasoning. arxiv 2019.</li>
-</ol>
 
 ## Post about works from my group
 <a href="https://baijiahao.baidu.com/s?id=1659148499039690259&wfr=spider&for=pc">CodeBERT: 面向编程语言的预训练模型 (written by 雷锋网)</a>
@@ -85,7 +82,17 @@ Duyu served on the program committees of top NLP/AI conferences: ACL (2016-2020)
 
 <a href="https://www.msra.cn/zh-cn/news/features/acl-2018-semantic-parsing-with-syntax-and-table-aware-sql-generation">融合SQL语法的生成式语义解析模型</a>
 
-
+## Talks
+<ol>
+ <li> Give a tutorial together with Nan Duan and Ming Zhou on knowledge-based reasoning at
+EMNLP-2020, 16th –20th November 2020
+  <li> Give a tutorial on Interpretable NLP with knowledge-based reasoning at NLPCC-2020, 14th -
+18th October, 2020
+   <li> Give a tutorial on machine reasoning at CAAI-AIDL （中国人工智能学会-AI前沿讲习班）,
+Shanghai, Dec 14-15, 2019
+    <li> Give a tutorial on semantic parsing at CIPS-ATT （中国中文信息学会-前沿技术讲习班）,
+Beijing, July 12-13, 2019
+</ol>
 
 ## Contact
 Email: dutang@microsoft.com
