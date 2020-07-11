@@ -42,7 +42,6 @@ Duyu served on the program committees of top NLP/AI conferences: ACL (2016-2020)
  	<li>Duyu Tang, Meishan Zhang. Deep Learning in Sentiment Analysis. a chapter in Deep Learning in Natural Language Processing. 2018. Springer</li>
  	<li>Yaming Sun, Zhenzhou Ji, Lei Lin, Xiaolong Wang, Duyu Tang. Entity disambiguation with memory network. Neurocomputing. 2018.</li>
  	<li>Yibo Sun, Zhao Yan, Duyu Tang, Nan Duan, Bing Qin. Content-Based Table Retrieval for Web Queries. 2018. Neurocomputing. [<a href="https://github.com/tangduyu/Table-Intelligence">data</a>]</li>
-
  	<li>Nan Duan, Duyu Tang, Peng Chen, Ming Zhou, Question Generation for Question Answering, EMNLP, 2017.</li>
  	<li>Yaming Sun, Zhenzhou Ji, Lei Lin, Duyu Tang, Xiaolong Wang. Entity disambiguation with decomposable neural networks. Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery. 2017</li>
  	<li>Duyu Tang, Bing Qin, Ting Liu. Aspect Level Sentiment Classification with Deep Memory Network. Proceeding of the Conference on Empirical Methods in Natural Language Processing (EMNLP 2016, full paper) [<a href="https://drive.google.com/open?id=1Hc886aivHmIzwlawapzbpRdTfPoTyi1U">resource</a>]</li>
@@ -71,6 +70,7 @@ Duyu served on the program committees of top NLP/AI conferences: ACL (2016-2020)
  	<li>Duyu Tang, Furu Wei, Bing Qin, Ting Liu, Ming Zhou. Coooolll: A Deep Learning System for Twitter Sentiment Classification. Proceedings of the 8th International Workshop on Semantic Evaluation (SemEval 2014, the second place among 45 participants)</li>
 <li>Chenfei Wu, Yanzhao Zhou, Gen Li, Nan Duan, Duyu Tang, Xiaojie Wang. Deep Reason: A Strong Baseline for Real-World Visual Reasoning. arxiv 2019.</li>
 </ol>
+
 ## Post about works from my group
 <a href="https://baijiahao.baidu.com/s?id=1659148499039690259&wfr=spider&for=pc">CodeBERT: 面向编程语言的预训练模型 (written by 雷锋网)</a>
 <a href="https://www.msra.cn/zh-cn/news/features/machine-reasoning-conversational-qa-semantic-parsing">基于推理的多轮语义分析和问答</a>
