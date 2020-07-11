@@ -6,11 +6,74 @@ Duyu joined Microsoft in 2016, after receiving his Ph.D. and M.S. in Computer Sc
 
 Duyu served on the program committees of top NLP/AI conferences: ACL (2016-2020), EMNLP (2015-2020), NeurIPS (2018/2020), TACL (2020-2022), NAACL (2018/2019). He was an area chair for EMNLP 2020. Duyu is recognized as the <a href="https://www.aminer.org/ai2000/nlp">Most Influential Scholar Award Honorable Mention</a> (Rank #65 2009–2019) by AMiner.
 
+
+## Publications and Preprints
+
+<strong>Preprint</strong>
+<ol>
+<li>Zhangyin Feng, Daya Guo, Duyu Tang, Nan Duan, Xiaocheng Feng, Ming Gong, Linjun Shou, Bing Qin, Ting Liu, Daxin Jiang, Ming Zhou. CodeBERT: A Pre-Trained Model for Programming and Natural Languages. arxiv, 2020</li>
+<li>Ruize Wang, Duyu Tang, Nan Duan, Zhongyu Wei, Xuanjing Huang, Jianshu ji, Guihong Cao, Daxin Jiang, Ming Zhou. K-Adapter: Infusing Knowledge into Pre-Trained Models with Adapters. arxiv, 2020</li>
+<li>Ruize Wang, Duyu Tang, Nan Duan, Wanjun Zhong, Zhongyu Wei, Xuanjing Huang, Daxin Jiang, Ming Zhou. Leveraging Declarative Knowledge in Text and First-Order Logic for Fine-Grained Propaganda Detection. arxiv, 2020</li>
+<li>Wanjun Zhong, Duyu Tang, Nan Duan, Ming Zhou, Jiahai Wang, Jian Yin. A Heterogeneous Graph with Factual, Temporal and Logical Knowledge for Question Answering Over Dynamic Contexts. arxiv, 2020</li>
+<li>Daya Guo, Akari Asai, Duyu Tang, Nan Duan, Ming Gong, Linjun Shou, Daxin Jiang, Jian Yin, Ming Zhou. Inferential Text Generation with Multiple Knowledge Sources and Meta-Learning. arxiv, 2020</li>
+<li>Shangwen Lv, Yuechen Wang, Daya Guo, Duyu Tang, Nan Duan, Fuqing Zhu, Ming Gong, Linjun Shou, Ryan Ma, Daxin Jiang, Guihong Cao, Ming Zhou, Songlin Hu. Pre-training Text Representations as Meta Learning. arxiv, 2020</li>
+</ol>
+
+<strong>Conference/Journal</strong>
+<ol>
+<li>Daya Guo, Duyu Tang, Nan Duan, Jian Yin, Daxin Jiang and Ming Zhou. Evidence-Aware Inferential Text Generation with Vector Quantised Variational AutoEncoder. ACL. 2020</li>
+<li>Wanjun Zhong, Duyu Tang, Zhangyin Feng, Nan Duan, Ming Zhou, Ming Gong, Linjun Shou, Daxin Jiang, Jiahai Wang and Jian Yin. LogicalFactChecker: Leveraging Logical Operations for Fact Checking with Graph Module Network. ACL. 2020</li>
+<li>Wanjun Zhong, Jingjing Xu, Duyu Tang, Zenan Xu, Nan Duan, Ming Zhou, Jiahai Wang, Jian Yin. Reasoning Over Semantic-Level Graph for Fact Checking. ACL. 2020</li>
+<li>Shangwen Lv, Daya Guo, Jingjing Xu, Duyu Tang, Nan Duan, Ming Gong, Linjun Shou, Daxin Jiang, Guihong Cao, Songlin Hu. Graph-Based Reasoning over Heterogeneous External Knowledge for Commonsense Question Answering. AAAI, 2020</li>
+ 	<li>Yibo Sun, Duyu Tang, Nan Duan, Yeyun Gong, Xiaocheng Feng, Bing Qin, Daxin Jiang. Neural Semantic Parsing in Low-Resource Settings with Back-Translation and Meta-Learning. AAAI. 2020</li>
+ 	<li>Jingjing Xu, Yuechen Wang, Duyu Tang, Nan Duan, Pengcheng Yang, Qi Zeng, Ming Zhou, Xu Sun. Asking Clarification Questions in Knowledge-Based Question Answering. EMNLP, 2019.</li>
+ 	<li>Tao Shen, Xiubo Geng, Tao QIN, Daya Guo, Duyu Tang, Nan Duan, Guodong Long, Daxin Jiang. Multi-task Learning for Conversational Question Answering Over a Large-Scale Knowledge Base. EMNLP, 2019.</li>
+ 	<li>Wanjun Zhong, Duyu Tang, Nan Duan, Ming Zhou, Jiahai Wang, Jian Yin. Improving Question Answering by Commonsense-Based Pre-Training. NLPCC, 2019.</li>
+ 	<li>Yibo Sun, Duyu Tang, Jingjing Xu, Nan Duan, Xiaocheng Feng, Bing Qin, Ting Liu, Ming Zhou. Knowledge-Aware Conversational Semantic Parsing Over Web Tables. NLPCC, 2019.</li>
+ 	<li>Daya Guo, Duyu Tang, Nan Duan, Ming Zhou and Jian Yin, Coupling Retrieval and Meta-Learning for Context-Dependent Semantic Parsing, ACL, 2019.</li>
+ 	<li>Yibo Sun, Duyu Tang, Nan Duan, Tao Qin, Shujie Liu, Zhao Yan, Ming Zhou, Yuanhua Lv, Wenpeng Yin, Xiaocheng Feng, Bing Qin, Ting Liu. Joint Learning of Question Answering and Question Generation. 2019. IEEE Transactions on Knowledge and Data Engineering.</li>
+ 	<li>Junwei Bao, Duyu Tang, Nan Duan, Zhao Yan, Ming Zhou, Tiejun Zhao. Text Generation from Tables. 2019. IEEE/ACM Transactions on Audio, Speech, and Language Processing.</li>
+ 	<li>Daya Guo, Duyu Tang, Nan Duan, Ming Zhou, Jian Yin. Dialog-to-Action: Conversational Question Answering Over a Large-Scale Knowledge Base. 2018. NeurIPS.</li>
+ 	<li>Daya Guo, Yibo Sun, Duyu Tang, Nan Duan, Jian Yin, Hong Chi, James Cao, Peng Chen and Ming Zhou. Question Generation from SQL Queries Improves Neural Semantic Parsing. 2018. EMNLP.</li>
+ 	<li>Yibo Sun, Duyu Tang, Nan Duan, Jianshu Ji, Guihong Cao, Xiaocheng Feng, Bing Qin, Ting Liu and Ming Zhou. Semantic Parsing with Syntax- and Table-Aware SQL Generation. 2018. ACL.</li>
+ 	<li>Duyu Tang, Nan Duan, Zhao Yan, Zhirui Zhang, Yibo Sun, Shujie Liu, Yuanhua Lv and Ming Zhou. Learning to Collaborate for Question Answering and Asking. 2018. NAACL.</li>
+ 	<li>Junwei Bao, Duyu Tang, Nan Duan, Zhao Yan, Yuanhua Lv, Ming Zhou, Tiejun Zhao. Table-to-Text: Describing Table Region with Natural Language. 2018. AAAI. [<a href="https://github.com/tangduyu/Table-Intelligence">data</a>]</li>
+ 	<li>Zhao Yan, Duyu Tang, Nan Duan, Shujie Liu, Wendi Wang, Daxin Jiang, Ming Zhou, Zhoujun Li. Assertion-based QA with Question-Aware Open Information Extraction. 2018. AAAI. [<a href="https://1drv.ms/u/s!Al-ls7lWsClHnjhwdUeMpNmSyM8J">data</a>]</li>
+ 	<li>Duyu Tang, Meishan Zhang. Deep Learning in Sentiment Analysis. a chapter in Deep Learning in Natural Language Processing. 2018. Springer</li>
+ 	<li>Yaming Sun, Zhenzhou Ji, Lei Lin, Xiaolong Wang, Duyu Tang. Entity disambiguation with memory network. Neurocomputing. 2018.</li>
+ 	<li>Yibo Sun, Zhao Yan, Duyu Tang, Nan Duan, Bing Qin. Content-Based Table Retrieval for Web Queries. 2018. Neurocomputing. [<a href="https://github.com/tangduyu/Table-Intelligence">data</a>]</li>
+
+ 	<li>Nan Duan, Duyu Tang, Peng Chen, Ming Zhou, Question Generation for Question Answering, EMNLP, 2017.</li>
+ 	<li>Yaming Sun, Zhenzhou Ji, Lei Lin, Duyu Tang, Xiaolong Wang. Entity disambiguation with decomposable neural networks. Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery. 2017</li>
+ 	<li>Duyu Tang, Bing Qin, Ting Liu. Aspect Level Sentiment Classification with Deep Memory Network. Proceeding of the Conference on Empirical Methods in Natural Language Processing (EMNLP 2016, full paper) [<a href="https://drive.google.com/open?id=1Hc886aivHmIzwlawapzbpRdTfPoTyi1U">resource</a>]</li>
+ 	<li>Duyu Tang, Bing Qin, Xiaocheng Feng, Ting Liu. Effective LSTMs for Target-Dependent Sentiment Classification. Proceeding of the 26th International Conference on Computational Linguistics (COLING 2016, full paper)[<a href="https://drive.google.com/open?id=17RF8MZs456ov9MDiUYZp0SCGL6LvBQl6">resource</a>]</li>
+ 	<li>Xiaocheng Feng, Duyu Tang, Bing Qin, Ting Liu. English-Chinese Knowledge Base Translation with Neural Network. Proceeding of the 26th International Conference on Computational Linguistics (COLING 2016, full paper)</li>
+ 	<li>Xiaocheng Feng, Lifu Huang, Duyu Tang, Bing Qin, Heng Ji, Ting Liu. A Language-Independent Neural Network for Event Detection. Proceeding of the 54th Annual Meeting of the Association for Computational Linguistics (ACL 2016, short paper)</li>
+ 	<li>Duyu Tang, Furu Wei, Bing Qin, Nan Yang, Ting Liu, Ming Zhou. Sentiment Embeddings with Applications to Sentiment Analysis. IEEE Transactions on Knowledge and Data Engineering (TKDE). 2016. [<a href="https://drive.google.com/open?id=1MNqb6T1SXbAoXyOxEjj8cxgEXJIlpkAU">resource</a>]</li>
+ 	<li>Duyu Tang, Bing Qin, Ting Liu. Document Modeling with Gated Recurrent Neural Network for Sentiment Classification. Proceeding of the Conference on Empirical Methods in Natural Language Processing (EMNLP 2015, full paper)[<a href="https://drive.google.com/open?id=1rASDy8v4QPq4ZNEZqIJo5dqcxAGINW8K">resource</a>]</li>
+ 	<li>Duyu Tang, Bing Qin, Ting Liu. Learning Semantic Representations of Users and Products for Document Level Sentiment Classification. The 53rd Annual Meeting of the Association for Computational Linguistics (ACL 2015, full paper).[<a href="https://drive.google.com/open?id=1PxAkmPLFMnfom46FMMXkHeqIxDbA16oy">resource</a>]</li>
+ 	<li>Duyu Tang, Bing Qin, Ting Liu, Yuekui Yang. User Modeling with Neural Network for Review Rating Prediction. Proceeding of The 24th International Joint Conference on Artificial Intelligence (IJCAI 2015, full paper).</li>
+ 	<li>Yaming Sun, Lei Lin, Duyu Tang, Nan Yang, Zhenzhou Ji, Xiaolong Wang. Modeling Mention, Context and Entity with Neural Networks for Entity Disambiguation. Proceeding of The 24th International Joint Conference on Artificial Intelligence (IJCAI 2015, full paper).</li>
+ 	<li>Duyu Tang, Bing Qin, Furu Wei, Li Dong, Ting Liu, Ming Zhou. A Joint Segmentation and Classification Framework for Sentence Level Sentiment Classification. IEEE/ACM Transactions on Audio, Speech and Language Processing. 2015.</li>
+ 	<li>Duyu Tang, Bing Qin, Ting Liu. Deep Learning for Sentiment Analysis: Successful Approaches and Future Challenges. WIREs Data Mining and Knowledge Discovery. 2015.</li>
+ 	<li>Duyu Tang, Furu Wei, Bing Qin, Li Dong, Ting Liu, Ming Zhou. A Joint Segmentation and Classification Framework for Sentiment Analysis. Proceeding of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP 2014, full paper)</li>
+ 	<li>Duyu Tang, Furu Wei, Bing Qin, Ming Zhou, Ting Liu. Building Large-Scale Twitter-Specific Sentiment Lexicon : A Representation Learning Approach. Proceeding of the 25th International Conference on Computational Linguistics (COLING 2014, full paper)[<a href="https://drive.google.com/open?id=138f80pvcH1wW9PIncIruR7uFgfQDMyVf">resource</a>]</li>
+ 	<li>Duyu Tang, Furu Wei, Nan Yang, Ming Zhou, Ting Liu, Bing Qin. Learning Sentiment-Specific Word Embedding for Twitter Sentiment Classification. Proceeding of the 52th Annual Meeting of the Association for Computational Linguistics (ACL 2014, full paper)[<a href="https://drive.google.com/open?id=1MNqb6T1SXbAoXyOxEjj8cxgEXJIlpkAU">resource</a>]</li>
+ 	<li>Li Dong, Furu Wei, Chuanqi Tan, Duyu Tang, Ming Zhou, Ke Xu. Adaptive Recursive Neural Network for Target-dependent Twitter Sentiment Classification. Proceeding of the 52th Annual Meeting of the Association for Computational Linguistics (ACL 2014, short paper)</li>
+ 	<li>Duyu Tang, Bing Qin, Ting Liu, Zhenghua Li. Learning Sentence Representation for Emotion Classification on Microblogs. The 2nd Conference on Natural Language Processing and Chinese Computing (NLPCC 2013, full paper)</li>
+</ol>
+
+<strong>Others</strong>
+<ol>
+ <li>Duyu Tang, Nan Duan, Tao Qin, Zhao Yan, Yibo Sun, Ming Zhou. Question answering and question generation as dual tasks. 2017. arxiv</li>
+<li>Duyu Tang. Sentiment-Specific Representation Learning for Document-Level Sentiment Analysis. Proceedings of the Eighth ACM International Conference on Web Search and Data Mining (WSDM 2015, Doctoral Consortium).
+</li>
+ 	<li>Duyu Tang, Furu Wei, Bing Qin, Ting Liu, Ming Zhou. Coooolll: A Deep Learning System for Twitter Sentiment Classification. Proceedings of the 8th International Workshop on Semantic Evaluation (SemEval 2014, the second place among 45 participants)</li>
+<li>Chenfei Wu, Yanzhao Zhou, Gen Li, Nan Duan, Duyu Tang, Xiaojie Wang. Deep Reason: A Strong Baseline for Real-World Visual Reasoning. arxiv 2019.</li>
+</ol>
 ## Post about works from my group
 <a href="https://baijiahao.baidu.com/s?id=1659148499039690259&wfr=spider&for=pc">CodeBERT: 面向编程语言的预训练模型 (written by 雷锋网)</a>
-
 <a href="https://www.msra.cn/zh-cn/news/features/machine-reasoning-conversational-qa-semantic-parsing">基于推理的多轮语义分析和问答</a>
-
 <a href="https://www.msra.cn/zh-cn/news/features/machine-reasoning-for-fact-checking">机器推理在事实检测任务中的应用</a>
 
 <a href="https://www.msra.cn/zh-cn/news/features/machine-reasoning-for-commonsense-question-answering">机器推理在常识问答任务中的应用</a>
