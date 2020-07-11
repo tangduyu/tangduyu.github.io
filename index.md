@@ -9,7 +9,7 @@ Duyu served on the program committees of top NLP/AI conferences: ACL (2016-2020)
 
 
 ## Publications
-
+Recent works could be found from my <a href="https://scholar.google.com/citations?user=9uz-D-kAAAAJ&hl=en">Google Scholar page</a>. 
 ### Conference/Journal
 <ol>
 <li>Daya Guo, Duyu Tang, Nan Duan, Jian Yin, Daxin Jiang and Ming Zhou. Evidence-Aware Inferential Text Generation with Vector Quantised Variational AutoEncoder. ACL. 2020</li>
@@ -68,26 +68,19 @@ Duyu served on the program committees of top NLP/AI conferences: ACL (2016-2020)
 <li>Chenfei Wu, Yanzhao Zhou, Gen Li, Nan Duan, Duyu Tang, Xiaojie Wang. Deep Reason: A Strong Baseline for Real-World Visual Reasoning. arxiv 2019.</li>
 </ol>
 
-## Post about works from my group
+## Chinese Post about our works
 <ol>
-  <li>
-  <li>
-  <li>
-  <li>
-  <li>
-  <li>
+  <li><a href="https://baijiahao.baidu.com/s?id=1659148499039690259&wfr=spider&for=pc">CodeBERT: 面向编程语言的预训练模型 (written by 雷锋网)</a>
+  <li><a href="https://www.msra.cn/zh-cn/news/features/machine-reasoning-conversational-qa-semantic-parsing">基于推理的多轮语义分析和问答</a>
+  <li><a href="https://www.msra.cn/zh-cn/news/features/machine-reasoning-for-fact-checking">机器推理在事实检测任务中的应用</a>
+  <li><a href="https://www.msra.cn/zh-cn/news/features/machine-reasoning-for-commonsense-question-answering">机器推理在常识问答任务中的应用</a>
+  <li><a href="https://www.msra.cn/zh-cn/news/features/table-intelligence">面向表格的自然语言理解与生成</a>
+  <li><a href="https://www.msra.cn/zh-cn/news/features/acl-2018-semantic-parsing-with-syntax-and-table-aware-sql-generation">融合SQL语法的生成式语义解析模型</a>
   </ol>
-<a href="https://baijiahao.baidu.com/s?id=1659148499039690259&wfr=spider&for=pc">CodeBERT: 面向编程语言的预训练模型 (written by 雷锋网)</a>
 
-<a href="https://www.msra.cn/zh-cn/news/features/machine-reasoning-conversational-qa-semantic-parsing">基于推理的多轮语义分析和问答</a>
 
-<a href="https://www.msra.cn/zh-cn/news/features/machine-reasoning-for-fact-checking">机器推理在事实检测任务中的应用</a>
 
-<a href="https://www.msra.cn/zh-cn/news/features/machine-reasoning-for-commonsense-question-answering">机器推理在常识问答任务中的应用</a>
 
-<a href="https://www.msra.cn/zh-cn/news/features/table-intelligence">面向表格的自然语言理解与生成</a>
-
-<a href="https://www.msra.cn/zh-cn/news/features/acl-2018-semantic-parsing-with-syntax-and-table-aware-sql-generation">融合SQL语法的生成式语义解析模型</a>
 
 ## Talks
 <ol>
