@@ -68,7 +68,7 @@ Recent works could be found from my <a href="https://scholar.google.com/citation
 <li>Chenfei Wu, Yanzhao Zhou, Gen Li, Nan Duan, Duyu Tang, Xiaojie Wang. Deep Reason: A Strong Baseline for Real-World Visual Reasoning. arxiv 2019.</li>
 </ol>
 
-## Chinese Post about our works
+## Chinese Posts
 <ol>
   <li><a href="https://baijiahao.baidu.com/s?id=1659148499039690259&wfr=spider&for=pc">CodeBERT: 面向编程语言的预训练模型 (written by 雷锋网)</a>
   <li><a href="https://www.msra.cn/zh-cn/news/features/machine-reasoning-conversational-qa-semantic-parsing">基于推理的多轮语义分析和问答</a>
