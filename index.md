@@ -70,12 +70,13 @@ Recent works could be found from my <a href="https://scholar.google.com/citation
 
 ## Chinese Posts
 <ol>
-  <li><a href="https://baijiahao.baidu.com/s?id=1659148499039690259&wfr=spider&for=pc">CodeBERT: 面向编程语言的预训练模型 (written by 雷锋网)</a>
-  <li><a href="https://www.msra.cn/zh-cn/news/features/machine-reasoning-conversational-qa-semantic-parsing">基于推理的多轮语义分析和问答</a>
-  <li><a href="https://www.msra.cn/zh-cn/news/features/machine-reasoning-for-fact-checking">机器推理在事实检测任务中的应用</a>
-  <li><a href="https://www.msra.cn/zh-cn/news/features/machine-reasoning-for-commonsense-question-answering">机器推理在常识问答任务中的应用</a>
-  <li><a href="https://www.msra.cn/zh-cn/news/features/table-intelligence">面向表格的自然语言理解与生成</a>
-  <li><a href="https://www.msra.cn/zh-cn/news/features/acl-2018-semantic-parsing-with-syntax-and-table-aware-sql-generation">融合SQL语法的生成式语义解析模型</a></ol>
+  <li><a href="https://baijiahao.baidu.com/s?id=1659148499039690259&wfr=spider&for=pc">CodeBERT: 面向编程语言的预训练模型 (written by 雷锋网)</a></li>
+  <li><a href="https://www.msra.cn/zh-cn/news/features/machine-reasoning-conversational-qa-semantic-parsing">基于推理的多轮语义分析和问答</a></li>
+  <li><a href="https://www.msra.cn/zh-cn/news/features/machine-reasoning-for-fact-checking">机器推理在事实检测任务中的应用</a></li>
+  <li><a href="https://www.msra.cn/zh-cn/news/features/machine-reasoning-for-commonsense-question-answering">机器推理在常识问答任务中的应用</a></li>
+ <li><a href="https://www.msra.cn/zh-cn/news/features/table-intelligence">面向表格的自然语言理解与生成</a></li>
+  <li><a href="https://www.msra.cn/zh-cn/news/features/acl-2018-semantic-parsing-with-syntax-and-table-aware-sql-generation">融合SQL语法的生成式语义解析模型</a></li>
+</ol>
 
 ## Talks
 <ol>
@@ -85,4 +86,4 @@ Recent works could be found from my <a href="https://scholar.google.com/citation
  <li> Give a tutorial on semantic parsing at CIPS-ATT （中国中文信息学会-前沿技术讲习班）, Beijing, July 12-13, 2019</ol>
 
 ## Contact
-Email: dutang@microsoft.com
+Email: dutang@microsoft.com1
