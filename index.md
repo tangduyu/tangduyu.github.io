@@ -6,6 +6,24 @@ Duyu joined Microsoft in 2016, after receiving his Ph.D. and M.S. in Computer Sc
 
 Duyu served on the program committees of top NLP/AI conferences: ACL (2016-2020), EMNLP (2015-2020), NeurIPS (2018/2020), TACL (2020-2022), NAACL (2018/2019). He was an area chair for EMNLP 2020. Duyu is recognized as the <a href="https://www.aminer.org/ai2000/nlp">Most Influential Scholar Award Honorable Mention</a> (Rank #65, 2009–2019) by AMiner. Duyu is a recipient of CIPS Best PhD Thesis Awards in 2016 (one of two recipients in China), a recipient of IBM Ph.D. Fellowship in 2015 (one of 5 recipients in China), and  a recipient of Baidu Fellowship in 2014 (one of 8 recipients in the world).
 
+## Talks
+<ol>
+ <li> Give a tutorial together with Nan Duan and Ming Zhou on knowledge-based reasoning at EMNLP-2020, 16th –20th November 2020</li>
+ <li> Give a tutorial on Interpretable NLP with knowledge-based reasoning at NLPCC-2020, 14th - 18th October, 2020</li>
+ <li> Give a tutorial on machine reasoning at CAAI-AIDL （中国人工智能学会-AI前沿讲习班）, Shanghai, Dec 14-15, 2019</li>
+ <li> Give a tutorial on semantic parsing at CIPS-ATT （中国中文信息学会-前沿技术讲习班）, Beijing, July 12-13, 2019</li>
+</ol>
+
+
+## Chinese Posts
+<ol>
+  <li><a href="https://baijiahao.baidu.com/s?id=1659148499039690259&wfr=spider&for=pc">CodeBERT: 面向编程语言的预训练模型 (written by 雷锋网)</a></li>
+  <li><a href="https://www.msra.cn/zh-cn/news/features/machine-reasoning-conversational-qa-semantic-parsing">基于推理的多轮语义分析和问答</a></li>
+  <li><a href="https://www.msra.cn/zh-cn/news/features/machine-reasoning-for-fact-checking">机器推理在事实检测任务中的应用</a></li>
+  <li><a href="https://www.msra.cn/zh-cn/news/features/machine-reasoning-for-commonsense-question-answering">机器推理在常识问答任务中的应用</a></li>
+ <li><a href="https://www.msra.cn/zh-cn/news/features/table-intelligence">面向表格的自然语言理解与生成</a></li>
+  <li><a href="https://www.msra.cn/zh-cn/news/features/acl-2018-semantic-parsing-with-syntax-and-table-aware-sql-generation">融合SQL语法的生成式语义解析模型</a></li>
+</ol>
 
 
 ## Publications
@@ -66,24 +84,6 @@ Recent works could be found from my <a href="https://scholar.google.com/citation
 </li>
  	<li>Duyu Tang, Furu Wei, Bing Qin, Ting Liu, Ming Zhou. Coooolll: A Deep Learning System for Twitter Sentiment Classification. Proceedings of the 8th International Workshop on Semantic Evaluation (SemEval 2014, the second place among 45 participants)</li>
 <li>Chenfei Wu, Yanzhao Zhou, Gen Li, Nan Duan, Duyu Tang, Xiaojie Wang. Deep Reason: A Strong Baseline for Real-World Visual Reasoning. arxiv 2019.</li>
-</ol>
-
-## Chinese Posts
-<ol>
-  <li><a href="https://baijiahao.baidu.com/s?id=1659148499039690259&wfr=spider&for=pc">CodeBERT: 面向编程语言的预训练模型 (written by 雷锋网)</a></li>
-  <li><a href="https://www.msra.cn/zh-cn/news/features/machine-reasoning-conversational-qa-semantic-parsing">基于推理的多轮语义分析和问答</a></li>
-  <li><a href="https://www.msra.cn/zh-cn/news/features/machine-reasoning-for-fact-checking">机器推理在事实检测任务中的应用</a></li>
-  <li><a href="https://www.msra.cn/zh-cn/news/features/machine-reasoning-for-commonsense-question-answering">机器推理在常识问答任务中的应用</a></li>
- <li><a href="https://www.msra.cn/zh-cn/news/features/table-intelligence">面向表格的自然语言理解与生成</a></li>
-  <li><a href="https://www.msra.cn/zh-cn/news/features/acl-2018-semantic-parsing-with-syntax-and-table-aware-sql-generation">融合SQL语法的生成式语义解析模型</a></li>
-</ol>
-
-## Talks
-<ol>
- <li> Give a tutorial together with Nan Duan and Ming Zhou on knowledge-based reasoning at EMNLP-2020, 16th –20th November 2020</li>
- <li> Give a tutorial on Interpretable NLP with knowledge-based reasoning at NLPCC-2020, 14th - 18th October, 2020</li>
- <li> Give a tutorial on machine reasoning at CAAI-AIDL （中国人工智能学会-AI前沿讲习班）, Shanghai, Dec 14-15, 2019</li>
- <li> Give a tutorial on semantic parsing at CIPS-ATT （中国中文信息学会-前沿技术讲习班）, Beijing, July 12-13, 2019</li>
 </ol>
 
 ## Contact
