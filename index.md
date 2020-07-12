@@ -4,7 +4,7 @@ Duyu Tang (唐都钰) is a Senior Researcher in Natural Language Computing group
 
 Duyu joined Microsoft Research Asia in 2016, after receiving his Ph.D. and M.S. in Computer Science from Harbin Institute of Technology. Duyu’s research has been advancing the state of art of robust, explainable and trustworthy NLP systems, while making direct technical contributions to production. Over the years, Duyu worked on a wide range of NLP problems, from sentiment analysis, question answering, conversational semantic parsing, knowledge-driven machine reasoning, fact checking and fake news detection, to NLP + Coding.
 
-Duyu served on the program committees of top NLP/AI conferences: ACL (2016-2020), EMNLP (2015-2020), NeurIPS (2018/2020), TACL (2020-2022), NAACL (2018/2019). He was an area chair for EMNLP 2020. Duyu is recognized as the <a href="https://www.aminer.org/ai2000/nlp">Most Influential Scholar Award Honorable Mention</a> (Rank #65, 2009–2019) by AMiner, and a recipient of CIPS Best PhD Thesis Awards in 2016 (one of two recipients in China).
+Duyu served on the program committees of top NLP/AI conferences: ACL (2016-2020), EMNLP (2015-2020), NeurIPS (2018/2020), TACL (2020-2022), NAACL (2018/2019). He was an area chair for EMNLP 2020. Duyu is recognized as the <a href="https://www.aminer.org/ai2000/nlp">Most Influential Scholar Award Honorable Mention</a> (Rank #65, 2009–2019) by AMiner, and a recipient of <a href="http://www.cipsc.org.cn/chcontent.php?&xuhao=127">CIPS Best Ph.D. Thesis Awards</a> in 2016 (one of two recipients in China).
 
 ## Talks
 <ol>
