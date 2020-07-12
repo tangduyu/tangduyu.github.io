@@ -79,6 +79,7 @@ Recent works could be found from my <a href="https://scholar.google.com/citation
 <li>Wanjun Zhong, Duyu Tang, Nan Duan, Ming Zhou, Jiahai Wang, Jian Yin. A Heterogeneous Graph with Factual, Temporal and Logical Knowledge for Question Answering Over Dynamic Contexts. arxiv, 2020</li>
 <li>Daya Guo, Akari Asai, Duyu Tang, Nan Duan, Ming Gong, Linjun Shou, Daxin Jiang, Jian Yin, Ming Zhou. Inferential Text Generation with Multiple Knowledge Sources and Meta-Learning. arxiv, 2020</li>
 <li>Shangwen Lv, Yuechen Wang, Daya Guo, Duyu Tang, Nan Duan, Fuqing Zhu, Ming Gong, Linjun Shou, Ryan Ma, Daxin Jiang, Guihong Cao, Ming Zhou, Songlin Hu. Pre-training Text Representations as Meta Learning. arxiv, 2020</li>
+ <li>Yibo Sun, Daya Guo, Duyu Tang, Nan Duan, Zhao Yan, Xiaocheng Feng, Bing Qin. Knowledge Based Machine Reading Comprehension. 2018. arxiv</li>
   <li>Duyu Tang, Nan Duan, Tao Qin, Zhao Yan, Yibo Sun, Ming Zhou. Question answering and question generation as dual tasks. 2017. arxiv</li>
 <li>Duyu Tang. Sentiment-Specific Representation Learning for Document-Level Sentiment Analysis. Proceedings of the Eighth ACM International Conference on Web Search and Data Mining (WSDM 2015, Doctoral Consortium).
 </li>
