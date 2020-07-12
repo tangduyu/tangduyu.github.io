@@ -2,14 +2,14 @@
 
 Duyu Tang (唐都钰) is a Senior Researcher in Natural Language Computing group of Microsoft Research Asia, working on natural language processing (NLP).
 
-Duyu joined Microsoft Research Asia in 2016, after receiving his Ph.D. and M.S. in Computer Science from Harbin Institute of Technology. Duyu’s research has been advancing the state of art of explainable and trustworthy NLP systems, while making direct technical contributions to production. Over the years, Duyu worked on a wide range of NLP problems, from sentiment analysis, question answering, conversational semantic parsing, knowledge-driven machine reasoning, fact checking and fake news detection, to NLP + Coding.
+Duyu joined Microsoft Research Asia in 2016, after receiving his Ph.D. and M.S. in Computer Science from Harbin Institute of Technology. Duyu’s research has been advancing the state of art of robust, explainable and trustworthy NLP systems, while making direct technical contributions to production. Over the years, Duyu worked on a wide range of NLP problems, from sentiment analysis, question answering, conversational semantic parsing, knowledge-driven machine reasoning, fact checking and fake news detection, to NLP + Coding.
 
 Duyu served on the program committees of top NLP/AI conferences: ACL (2016-2020), EMNLP (2015-2020), NeurIPS (2018/2020), TACL (2020-2022), NAACL (2018/2019). He was an area chair for EMNLP 2020. Duyu is recognized as the <a href="https://www.aminer.org/ai2000/nlp">Most Influential Scholar Award Honorable Mention</a> (Rank #65, 2009–2019) by AMiner. Duyu is a recipient of CIPS Best PhD Thesis Awards in 2016 (one of two recipients in China), a recipient of IBM Ph.D. Fellowship in 2015 (one of 5 recipients in China), and  a recipient of Baidu Fellowship in 2014 (one of 8 recipients in the world).
 
 ## Talks
 <ol>
  <li> Give a tutorial together with Nan Duan and Ming Zhou on knowledge-based reasoning at EMNLP-2020, 16th –20th November 2020</li>
- <li> Give a tutorial on Interpretable NLP with knowledge-based reasoning at NLPCC-2020, 14th - 18th October, 2020</li>
+ <li> Give a tutorial on Towards Interpretable NLP with knowledge-based reasoning at NLPCC-2020, 14th - 18th October, 2020</li>
  <li> Give a tutorial on <a href="tangduyu.github.io/files/knowledge-driven QA and SP-caai-2019.pdf">knowledge-based machine reasoning</a> at CAAI-AIDL （中国人工智能学会-AI前沿讲习班）, Shanghai, Dec 14-15, 2019</li>
  <li> Give a tutorial on <a href="tangduyu.github.io/files/semantic-parsing-CIPS-ATT-2019.pdf">semantic parsing</a> at CIPS-ATT （中国中文信息学会-前沿技术讲习班）, Beijing, July 12-13, 2019</li>
 </ol>
