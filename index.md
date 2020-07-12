@@ -10,8 +10,8 @@ Duyu served on the program committees of top NLP/AI conferences: ACL (2016-2020)
 <ol>
  <li> Give a tutorial together with Nan Duan and Ming Zhou on knowledge-based reasoning at EMNLP-2020, 16th –20th November 2020</li>
  <li> Give a tutorial on Interpretable NLP with knowledge-based reasoning at NLPCC-2020, 14th - 18th October, 2020</li>
- <li> Give a tutorial on machine reasoning at CAAI-AIDL （中国人工智能学会-AI前沿讲习班）, Shanghai, Dec 14-15, 2019</li>
- <li> Give a tutorial on semantic parsing at CIPS-ATT （中国中文信息学会-前沿技术讲习班）, Beijing, July 12-13, 2019</li>
+ <li> Give a tutorial on <a href="tangduyu.github.io/files/knowledge-driven QA and SP-caai-2019.pdf">knowledge-based machine reasoning</a> at CAAI-AIDL （中国人工智能学会-AI前沿讲习班）, Shanghai, Dec 14-15, 2019</li>
+ <li> Give a tutorial on <a href="tangduyu.github.io/files/semantic-parsing-CIPS-ATT-2019.pdf">semantic parsing</a> at CIPS-ATT （中国中文信息学会-前沿技术讲习班）, Beijing, July 12-13, 2019</li>
 </ol>
 
 
