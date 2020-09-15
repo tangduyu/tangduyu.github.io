@@ -31,7 +31,7 @@ Recent works could be found from my <a href="https://scholar.google.com/citation
 ### Conference/Journal
 <ol>
 <li>Zhangyin Feng, Daya Guo, Duyu Tang, Nan Duan, Xiaocheng Feng, Ming Gong, Linjun Shou, Bing Qin, Ting Liu, Daxin Jiang, Ming Zhou. CodeBERT: A Pre-Trained Model for Programming and Natural Languages. EMNLP, 2020</li>
-<li>Ruize Wang, Duyu Tang, Nan Duan, Wanjun Zhong, Zhongyu Wei, Xuanjing Huang, Daxin Jiang, Ming Zhou. Leveraging Declarative Knowledge in Text and First-Order Logic for Fine-Grained Propaganda Detection. arxiv, 2020</li>
+<li>Ruize Wang, Duyu Tang, Nan Duan, Wanjun Zhong, Zhongyu Wei, Xuanjing Huang, Daxin Jiang, Ming Zhou. Leveraging Declarative Knowledge in Text and First-Order Logic for Fine-Grained Propaganda Detection. EMNLP, 2020</li>
 <li>Wanjun Zhong, Duyu Tang, Zenan Xu, Ruize Wang, Nan Duan, Ming Zhou, Jiahai Wang and Jian Yin. Neural Deepfake Detection with Factual Structure of Text. EMNLP. 2020</li>
 <li>Daya Guo, Duyu Tang, Nan Duan, Jian Yin, Daxin Jiang and Ming Zhou. Evidence-Aware Inferential Text Generation with Vector Quantised Variational AutoEncoder. ACL. 2020</li>
 <li>Wanjun Zhong, Duyu Tang, Zhangyin Feng, Nan Duan, Ming Zhou, Ming Gong, Linjun Shou, Daxin Jiang, Jiahai Wang and Jian Yin. LogicalFactChecker: Leveraging Logical Operations for Fact Checking with Graph Module Network. ACL. 2020</li>
