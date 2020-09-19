@@ -28,26 +28,27 @@ Duyu served on the program committees of top NLP/AI conferences: ACL (2016-2020)
 
 ## Publications
 Recent works could be found from my <a href="https://scholar.google.com/citations?user=9uz-D-kAAAAJ&hl=en">Google Scholar page</a>. 
+<sup>#</sup>: students mentored by me at Microsoft.
 ### Conference/Journal
 <ol>
 <li>Zhangyin Feng<sup>#</sup>, Daya Guo<sup>#</sup>, Duyu Tang, Nan Duan, Xiaocheng Feng, Ming Gong, Linjun Shou, Bing Qin, Ting Liu, Daxin Jiang, Ming Zhou. CodeBERT: A Pre-Trained Model for Programming and Natural Languages. EMNLP, 2020</li>
-<li>Ruize Wang, Duyu Tang, Nan Duan, Wanjun Zhong, Zhongyu Wei, Xuanjing Huang, Daxin Jiang, Ming Zhou. Leveraging Declarative Knowledge in Text and First-Order Logic for Fine-Grained Propaganda Detection. EMNLP, 2020</li>
-<li>Wanjun Zhong, Duyu Tang, Zenan Xu, Ruize Wang, Nan Duan, Ming Zhou, Jiahai Wang and Jian Yin. Neural Deepfake Detection with Factual Structure of Text. EMNLP. 2020</li>
-<li>Daya Guo, Duyu Tang, Nan Duan, Jian Yin, Daxin Jiang and Ming Zhou. Evidence-Aware Inferential Text Generation with Vector Quantised Variational AutoEncoder. ACL. 2020</li>
-<li>Wanjun Zhong, Duyu Tang, Zhangyin Feng, Nan Duan, Ming Zhou, Ming Gong, Linjun Shou, Daxin Jiang, Jiahai Wang and Jian Yin. LogicalFactChecker: Leveraging Logical Operations for Fact Checking with Graph Module Network. ACL. 2020</li>
-<li>Wanjun Zhong, Jingjing Xu, Duyu Tang, Zenan Xu, Nan Duan, Ming Zhou, Jiahai Wang, Jian Yin. Reasoning Over Semantic-Level Graph for Fact Checking. ACL. 2020</li>
-<li>Shangwen Lv, Daya Guo, Jingjing Xu, Duyu Tang, Nan Duan, Ming Gong, Linjun Shou, Daxin Jiang, Guihong Cao, Songlin Hu. Graph-Based Reasoning over Heterogeneous External Knowledge for Commonsense Question Answering. AAAI, 2020</li>
+<li>Ruize Wang<sup>#</sup>, Duyu Tang, Nan Duan, Wanjun Zhong<sup>#</sup>, Zhongyu Wei, Xuanjing Huang, Daxin Jiang, Ming Zhou. Leveraging Declarative Knowledge in Text and First-Order Logic for Fine-Grained Propaganda Detection. EMNLP, 2020</li>
+<li>Wanjun Zhong<sup>#</sup>, Duyu Tang, Zenan Xu<sup>#</sup>, Ruize Wang<sup>#</sup>, Nan Duan, Ming Zhou, Jiahai Wang and Jian Yin. Neural Deepfake Detection with Factual Structure of Text. EMNLP. 2020</li>
+<li>Daya Guo<sup>#</sup>, Duyu Tang, Nan Duan, Jian Yin, Daxin Jiang and Ming Zhou. Evidence-Aware Inferential Text Generation with Vector Quantised Variational AutoEncoder. ACL. 2020</li>
+<li>Wanjun Zhong<sup>#</sup>, Duyu Tang, Zhangyin Feng<sup>#</sup>, Nan Duan, Ming Zhou, Ming Gong, Linjun Shou, Daxin Jiang, Jiahai Wang and Jian Yin. LogicalFactChecker: Leveraging Logical Operations for Fact Checking with Graph Module Network. ACL. 2020</li>
+<li>Wanjun Zhong<sup>#</sup>, Jingjing Xu<sup>#</sup>, Duyu Tang, Zenan Xu<sup>#</sup>, Nan Duan, Ming Zhou, Jiahai Wang, Jian Yin. Reasoning Over Semantic-Level Graph for Fact Checking. ACL. 2020</li>
+<li>Shangwen Lv<sup>#</sup>, Daya Guo<sup>#</sup>, Jingjing Xu<sup>#</sup>, Duyu Tang, Nan Duan, Ming Gong, Linjun Shou, Daxin Jiang, Guihong Cao, Songlin Hu. Graph-Based Reasoning over Heterogeneous External Knowledge for Commonsense Question Answering. AAAI, 2020</li>
  	<li>Yibo Sun, Duyu Tang, Nan Duan, Yeyun Gong, Xiaocheng Feng, Bing Qin, Daxin Jiang. Neural Semantic Parsing in Low-Resource Settings with Back-Translation and Meta-Learning. AAAI. 2020</li>
- 	<li>Jingjing Xu, Yuechen Wang, Duyu Tang, Nan Duan, Pengcheng Yang, Qi Zeng, Ming Zhou, Xu Sun. Asking Clarification Questions in Knowledge-Based Question Answering. EMNLP, 2019.</li>
+ 	<li>Jingjing Xu<sup>#</sup>, Yuechen Wang<sup>#</sup>, Duyu Tang, Nan Duan, Pengcheng Yang, Qi Zeng, Ming Zhou, Xu Sun. Asking Clarification Questions in Knowledge-Based Question Answering. EMNLP, 2019.</li>
  	<li>Tao Shen, Xiubo Geng, Tao QIN, Daya Guo, Duyu Tang, Nan Duan, Guodong Long, Daxin Jiang. Multi-task Learning for Conversational Question Answering Over a Large-Scale Knowledge Base. EMNLP, 2019.</li>
- 	<li>Wanjun Zhong, Duyu Tang, Nan Duan, Ming Zhou, Jiahai Wang, Jian Yin. Improving Question Answering by Commonsense-Based Pre-Training. NLPCC, 2019.</li>
- 	<li>Yibo Sun, Duyu Tang, Jingjing Xu, Nan Duan, Xiaocheng Feng, Bing Qin, Ting Liu, Ming Zhou. Knowledge-Aware Conversational Semantic Parsing Over Web Tables. NLPCC, 2019.</li>
- 	<li>Daya Guo, Duyu Tang, Nan Duan, Ming Zhou and Jian Yin, Coupling Retrieval and Meta-Learning for Context-Dependent Semantic Parsing, ACL, 2019.</li>
- 	<li>Yibo Sun, Duyu Tang, Nan Duan, Tao Qin, Shujie Liu, Zhao Yan, Ming Zhou, Yuanhua Lv, Wenpeng Yin, Xiaocheng Feng, Bing Qin, Ting Liu. Joint Learning of Question Answering and Question Generation. 2019. IEEE Transactions on Knowledge and Data Engineering.</li>
+ 	<li>Wanjun Zhong<sup>#</sup>, Duyu Tang, Nan Duan, Ming Zhou, Jiahai Wang, Jian Yin. Improving Question Answering by Commonsense-Based Pre-Training. NLPCC, 2019.</li>
+ 	<li>Yibo Sun<sup>#</sup>, Duyu Tang, Jingjing Xu, Nan Duan, Xiaocheng Feng, Bing Qin, Ting Liu, Ming Zhou. Knowledge-Aware Conversational Semantic Parsing Over Web Tables. NLPCC, 2019.</li>
+ 	<li>Daya Guo<sup>#</sup>, Duyu Tang, Nan Duan, Ming Zhou and Jian Yin, Coupling Retrieval and Meta-Learning for Context-Dependent Semantic Parsing, ACL, 2019.</li>
+ 	<li>Yibo Sun<sup>#</sup>, Duyu Tang, Nan Duan, Tao Qin, Shujie Liu, Zhao Yan, Ming Zhou, Yuanhua Lv, Wenpeng Yin, Xiaocheng Feng, Bing Qin, Ting Liu. Joint Learning of Question Answering and Question Generation. 2019. IEEE Transactions on Knowledge and Data Engineering.</li>
  	<li>Junwei Bao, Duyu Tang, Nan Duan, Zhao Yan, Ming Zhou, Tiejun Zhao. Text Generation from Tables. 2019. IEEE/ACM Transactions on Audio, Speech, and Language Processing.</li>
- 	<li>Daya Guo, Duyu Tang, Nan Duan, Ming Zhou, Jian Yin. Dialog-to-Action: Conversational Question Answering Over a Large-Scale Knowledge Base. 2018. NeurIPS.</li>
- 	<li>Daya Guo, Yibo Sun, Duyu Tang, Nan Duan, Jian Yin, Hong Chi, James Cao, Peng Chen and Ming Zhou. Question Generation from SQL Queries Improves Neural Semantic Parsing. 2018. EMNLP.</li>
- 	<li>Yibo Sun, Duyu Tang, Nan Duan, Jianshu Ji, Guihong Cao, Xiaocheng Feng, Bing Qin, Ting Liu and Ming Zhou. Semantic Parsing with Syntax- and Table-Aware SQL Generation. 2018. ACL.</li>
+ 	<li>Daya Guo<sup>#</sup>, Duyu Tang, Nan Duan, Ming Zhou, Jian Yin. Dialog-to-Action: Conversational Question Answering Over a Large-Scale Knowledge Base. 2018. NeurIPS.</li>
+ 	<li>Daya Guo<sup>#</sup>, Yibo Sun, Duyu Tang, Nan Duan, Jian Yin, Hong Chi, James Cao, Peng Chen and Ming Zhou. Question Generation from SQL Queries Improves Neural Semantic Parsing. 2018. EMNLP.</li>
+ 	<li>Yibo Sun<sup>#</sup>, Duyu Tang, Nan Duan, Jianshu Ji, Guihong Cao, Xiaocheng Feng, Bing Qin, Ting Liu and Ming Zhou. Semantic Parsing with Syntax- and Table-Aware SQL Generation. 2018. ACL.</li>
  	<li>Duyu Tang, Nan Duan, Zhao Yan, Zhirui Zhang, Yibo Sun, Shujie Liu, Yuanhua Lv and Ming Zhou. Learning to Collaborate for Question Answering and Asking. 2018. NAACL.</li>
  	<li>Junwei Bao, Duyu Tang, Nan Duan, Zhao Yan, Yuanhua Lv, Ming Zhou, Tiejun Zhao. Table-to-Text: Describing Table Region with Natural Language. 2018. AAAI. [<a href="https://github.com/tangduyu/Table-Intelligence">data</a>]</li>
  	<li>Zhao Yan, Duyu Tang, Nan Duan, Shujie Liu, Wendi Wang, Daxin Jiang, Ming Zhou, Zhoujun Li. Assertion-based QA with Question-Aware Open Information Extraction. 2018. AAAI. [<a href="https://1drv.ms/u/s!Al-ls7lWsClHnjhwdUeMpNmSyM8J">data</a>]</li>
@@ -76,11 +77,11 @@ Recent works could be found from my <a href="https://scholar.google.com/citation
 
 ### Preprint/Workshop
 <ol>
-<li>Ruize Wang, Duyu Tang, Nan Duan, Zhongyu Wei, Xuanjing Huang, Jianshu ji, Guihong Cao, Daxin Jiang, Ming Zhou. K-Adapter: Infusing Knowledge into Pre-Trained Models with Adapters. arxiv, 2020</li>
-<li>Wanjun Zhong, Duyu Tang, Nan Duan, Ming Zhou, Jiahai Wang, Jian Yin. A Heterogeneous Graph with Factual, Temporal and Logical Knowledge for Question Answering Over Dynamic Contexts. arxiv, 2020</li>
-<li>Daya Guo, Akari Asai, Duyu Tang, Nan Duan, Ming Gong, Linjun Shou, Daxin Jiang, Jian Yin, Ming Zhou. Inferential Text Generation with Multiple Knowledge Sources and Meta-Learning. arxiv, 2020</li>
-<li>Shangwen Lv, Yuechen Wang, Daya Guo, Duyu Tang, Nan Duan, Fuqing Zhu, Ming Gong, Linjun Shou, Ryan Ma, Daxin Jiang, Guihong Cao, Ming Zhou, Songlin Hu. Pre-training Text Representations as Meta Learning. arxiv, 2020</li>
- <li>Yibo Sun, Daya Guo, Duyu Tang, Nan Duan, Zhao Yan, Xiaocheng Feng, Bing Qin. Knowledge Based Machine Reading Comprehension. 2018. arxiv</li>
+<li>Ruize Wang<sup>#</sup>, Duyu Tang, Nan Duan, Zhongyu Wei, Xuanjing Huang, Jianshu ji, Guihong Cao, Daxin Jiang, Ming Zhou. K-Adapter: Infusing Knowledge into Pre-Trained Models with Adapters. arxiv, 2020</li>
+<li>Wanjun Zhong<sup>#</sup>, Duyu Tang, Nan Duan, Ming Zhou, Jiahai Wang, Jian Yin. A Heterogeneous Graph with Factual, Temporal and Logical Knowledge for Question Answering Over Dynamic Contexts. arxiv, 2020</li>
+<li>Daya Guo<sup>#</sup>, Akari Asai<sup>#</sup>, Duyu Tang, Nan Duan, Ming Gong, Linjun Shou, Daxin Jiang, Jian Yin, Ming Zhou. Inferential Text Generation with Multiple Knowledge Sources and Meta-Learning. arxiv, 2020</li>
+<li>Shangwen Lv<sup>#</sup>, Yuechen Wang<sup>#</sup>, Daya Guo<sup>#</sup>, Duyu Tang, Nan Duan, Fuqing Zhu, Ming Gong, Linjun Shou, Ryan Ma, Daxin Jiang, Guihong Cao, Ming Zhou, Songlin Hu. Pre-training Text Representations as Meta Learning. arxiv, 2020</li>
+ <li>Yibo Sun<sup>#</sup>, Daya Guo<sup>#</sup>, Duyu Tang, Nan Duan, Zhao Yan, Xiaocheng Feng, Bing Qin. Knowledge Based Machine Reading Comprehension. 2018. arxiv</li>
   <li>Duyu Tang, Nan Duan, Tao Qin, Zhao Yan, Yibo Sun, Ming Zhou. Question answering and question generation as dual tasks. 2017. arxiv</li>
 <li>Duyu Tang. Sentiment-Specific Representation Learning for Document-Level Sentiment Analysis. Proceedings of the Eighth ACM International Conference on Web Search and Data Mining (WSDM 2015, Doctoral Consortium).
 </li>
