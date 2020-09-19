@@ -30,6 +30,13 @@ Duyu served on the program committees of top NLP/AI conferences: ACL (2016-2020)
 Recent works could be found from my <a href="https://scholar.google.com/citations?user=9uz-D-kAAAAJ&hl=en">Google Scholar page</a>. 
 
 <sup>#</sup>: students mentored by me at Microsoft.
+### Preprints
+<ol>
+<li> Daya Guo<sup>#</sup>, Shuo Ren, Shuai Lu<sup>#</sup>, Zhangyin Feng<sup>#</sup>, Duyu Tang, Shujie Liu, Long Zhou, Nan Duan, Jian Yin, Daxin Jiang, Ming Zhou. GraphCodeBERT: Pre-training Code Representations with Data Flow. arxiv, 2020</li>
+<li>Ruize Wang<sup>#</sup>, Duyu Tang, Nan Duan, Zhongyu Wei, Xuanjing Huang, Jianshu ji, Guihong Cao, Daxin Jiang, Ming Zhou. K-Adapter: Infusing Knowledge into Pre-Trained Models with Adapters. arxiv, 2020</li>
+<li>Wanjun Zhong<sup>#</sup>, Duyu Tang, Nan Duan, Ming Zhou, Jiahai Wang, Jian Yin. A Heterogeneous Graph with Factual, Temporal and Logical Knowledge for Question Answering Over Dynamic Contexts. arxiv, 2020</li>
+<li>Daya Guo<sup>#</sup>, Akari Asai<sup>#</sup>, Duyu Tang, Nan Duan, Ming Gong, Linjun Shou, Daxin Jiang, Jian Yin, Ming Zhou. Inferential Text Generation with Multiple Knowledge Sources and Meta-Learning. arxiv, 2020</li>
+</ol>
 ### Conference/Journal
 <ol>
 <li>Zhangyin Feng<sup>#</sup>, Daya Guo<sup>#</sup>, Duyu Tang, Nan Duan, Xiaocheng Feng, Ming Gong, Linjun Shou, Bing Qin, Ting Liu, Daxin Jiang, Ming Zhou. CodeBERT: A Pre-Trained Model for Programming and Natural Languages. EMNLP, 2020</li>
@@ -76,11 +83,8 @@ Recent works could be found from my <a href="https://scholar.google.com/citation
  	<li>Duyu Tang, Bing Qin, Ting Liu, Zhenghua Li. Learning Sentence Representation for Emotion Classification on Microblogs. The 2nd Conference on Natural Language Processing and Chinese Computing (NLPCC 2013, full paper)</li>
 </ol>
 
-### Preprint/Workshop
+### Workshop/Technical reports/Others
 <ol>
-<li>Ruize Wang<sup>#</sup>, Duyu Tang, Nan Duan, Zhongyu Wei, Xuanjing Huang, Jianshu ji, Guihong Cao, Daxin Jiang, Ming Zhou. K-Adapter: Infusing Knowledge into Pre-Trained Models with Adapters. arxiv, 2020</li>
-<li>Wanjun Zhong<sup>#</sup>, Duyu Tang, Nan Duan, Ming Zhou, Jiahai Wang, Jian Yin. A Heterogeneous Graph with Factual, Temporal and Logical Knowledge for Question Answering Over Dynamic Contexts. arxiv, 2020</li>
-<li>Daya Guo<sup>#</sup>, Akari Asai<sup>#</sup>, Duyu Tang, Nan Duan, Ming Gong, Linjun Shou, Daxin Jiang, Jian Yin, Ming Zhou. Inferential Text Generation with Multiple Knowledge Sources and Meta-Learning. arxiv, 2020</li>
 <li>Shangwen Lv<sup>#</sup>, Yuechen Wang<sup>#</sup>, Daya Guo<sup>#</sup>, Duyu Tang, Nan Duan, Fuqing Zhu, Ming Gong, Linjun Shou, Ryan Ma, Daxin Jiang, Guihong Cao, Ming Zhou, Songlin Hu. Pre-training Text Representations as Meta Learning. arxiv, 2020</li>
  <li>Yibo Sun<sup>#</sup>, Daya Guo<sup>#</sup>, Duyu Tang, Nan Duan, Zhao Yan, Xiaocheng Feng, Bing Qin. Knowledge Based Machine Reading Comprehension. 2018. arxiv</li>
   <li>Duyu Tang, Nan Duan, Tao Qin, Zhao Yan, Yibo Sun, Ming Zhou. Question answering and question generation as dual tasks. 2017. arxiv</li>
