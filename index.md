@@ -17,6 +17,7 @@ Duyu served on the program committees of top NLP/AI conferences: ACL (2016-2020)
 
 ## Chinese Posts
 <ol>
+  <li><a href="https://www.msra.cn/zh-cn/news/features/codexglue">代码智能新基准数据集CodeXGLUE来袭，多角度衡量模型优劣</a></li>
   <li><a href="https://tech.sina.com.cn/roll/2020-02-21/doc-iimxxstf3359549.shtml">CodeBERT: 面向编程语言的预训练模型</a></li>
   <li><a href="https://www.msra.cn/zh-cn/news/features/machine-reasoning-conversational-qa-semantic-parsing">基于推理的多轮语义分析和问答</a></li>
   <li><a href="https://www.msra.cn/zh-cn/news/features/machine-reasoning-for-fact-checking">机器推理在事实检测任务中的应用</a></li>
