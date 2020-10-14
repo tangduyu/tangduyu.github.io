@@ -34,7 +34,7 @@ Recent works could be found from my <a href="https://scholar.google.com/citation
 
 ### Preprints
 <ol>
-<li> Daya Guo<sup>#</sup>, Shuo Ren, Shuai Lu<sup>#</sup>, Zhangyin Feng<sup>#</sup>, Duyu Tang, Shujie Liu, Long Zhou, Nan Duan, Jian Yin, Daxin Jiang, Ming Zhou. GraphCodeBERT: Pre-training Code Representations with Data Flow. arxiv, 2020</li>
+<li> Daya Guo<sup>#</sup>, Shuo Ren, Shuai Lu<sup>#</sup>, Zhangyin Feng<sup>#</sup>, Duyu Tang, Shujie Liu, Long Zhou, Nan Duan, Alexey Svyatkovskiy, Shengyu Fu, Michele Tufano, Shao Kun Deng, Colin Clement, Dawn Drain, Neel Sundaresan, Jian Yin, Daxin Jiang, Ming Zhou. GraphCodeBERT: Pre-training Code Representations with Data Flow. arxiv, 2020</li>
 <li>Ruize Wang<sup>#</sup>, Duyu Tang, Nan Duan, Zhongyu Wei, Xuanjing Huang, Jianshu ji, Guihong Cao, Daxin Jiang, Ming Zhou. K-Adapter: Infusing Knowledge into Pre-Trained Models with Adapters. arxiv, 2020</li>
 <li>Shuo Ren, Daya Guo, Shuai Lu, Long Zhou, Shujie Liu, Duyu Tang, Neel Sundaresan, Ming Zhou, Ambrosio Blanco, Shuai Ma. CodeBLEU: a Method for Automatic Evaluation of Code Synthesis. arxiv, 2020</li>
 <li>Wanjun Zhong<sup>#</sup>, Duyu Tang, Nan Duan, Ming Zhou, Jiahai Wang, Jian Yin. A Heterogeneous Graph with Factual, Temporal and Logical Knowledge for Question Answering Over Dynamic Contexts. arxiv, 2020</li>
