@@ -39,6 +39,7 @@ Recent works could be found from my <a href="https://scholar.google.com/citation
 <li>Shuo Ren, Daya Guo, Shuai Lu, Long Zhou, Shujie Liu, Duyu Tang, Neel Sundaresan, Ming Zhou, Ambrosio Blanco, Shuai Ma. CodeBLEU: a Method for Automatic Evaluation of Code Synthesis. arxiv, 2020</li>
 <li>Wanjun Zhong<sup>#</sup>, Duyu Tang, Nan Duan, Ming Zhou, Jiahai Wang, Jian Yin. A Heterogeneous Graph with Factual, Temporal and Logical Knowledge for Question Answering Over Dynamic Contexts. arxiv, 2020</li>
 <li>Daya Guo<sup>#</sup>, Akari Asai<sup>#</sup>, Duyu Tang, Nan Duan, Ming Gong, Linjun Shou, Daxin Jiang, Jian Yin, Ming Zhou. Inferential Text Generation with Multiple Knowledge Sources and Meta-Learning. arxiv, 2020</li>
+ <li>Shangwen Lv<sup>#</sup>, Yuechen Wang<sup>#</sup>, Daya Guo<sup>#</sup>, Duyu Tang, Nan Duan, Fuqing Zhu, Ming Gong, Linjun Shou, Ryan Ma, Daxin Jiang, Guihong Cao, Ming Zhou, Songlin Hu. Pre-training Text Representations as Meta Learning. arxiv, 2020</li>
 </ol>
 
 ### Conference/Journal
@@ -89,7 +90,6 @@ Recent works could be found from my <a href="https://scholar.google.com/citation
 
 ### Workshop/Technical reports/Others
 <ol>
-<li>Shangwen Lv<sup>#</sup>, Yuechen Wang<sup>#</sup>, Daya Guo<sup>#</sup>, Duyu Tang, Nan Duan, Fuqing Zhu, Ming Gong, Linjun Shou, Ryan Ma, Daxin Jiang, Guihong Cao, Ming Zhou, Songlin Hu. Pre-training Text Representations as Meta Learning. arxiv, 2020</li>
  <li>Yibo Sun<sup>#</sup>, Daya Guo<sup>#</sup>, Duyu Tang, Nan Duan, Zhao Yan, Xiaocheng Feng, Bing Qin. Knowledge Based Machine Reading Comprehension. 2018. arxiv</li>
   <li>Duyu Tang, Nan Duan, Tao Qin, Zhao Yan, Yibo Sun, Ming Zhou. Question answering and question generation as dual tasks. 2017. arxiv</li>
 <li>Duyu Tang. Sentiment-Specific Representation Learning for Document-Level Sentiment Analysis. Proceedings of the Eighth ACM International Conference on Web Search and Data Mining (WSDM 2015, Doctoral Consortium).
