@@ -38,6 +38,7 @@ Duyu served on the program committees of top NLP/AI conferences: ACL (2016-2020)
 
 ## Publications
 Recent works could be found from my <a href="https://scholar.google.com/citations?user=9uz-D-kAAAAJ&hl=en">Google Scholar page</a>. 
+
 <sup>#</sup>: students mentored by me at Microsoft.
 
 ### Preprints
