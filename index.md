@@ -9,7 +9,7 @@ Duyu served on the program committees of top NLP/AI conferences: ACL (2016-2020)
 ## Recent Projects
 
 <ol>
- <li> <strong>CodeXGLUE</strong>. The first machine learning benchmark dataset to support multiple AI for software engineering tasks. [GitHub](https://github.com/microsoft/CodeXGLUE) | [Microsoft Research blog](https://www.microsoft.com/en-us/research/blog/codexglue-a-benchmark-dataset-and-open-challenge-for-code-intelligence/) | paper
+ <li> <strong>CodeXGLUE</strong>. The first machine learning benchmark dataset to support multiple AI for software engineering tasks. < a href = "https://github.com/microsoft/CodeXGLUE">GitHub</a> | [Microsoft Research blog](https://www.microsoft.com/en-us/research/blog/codexglue-a-benchmark-dataset-and-open-challenge-for-code-intelligence/) | paper
  <li> CodeBERT. The first pre-trained model for natural language and programming language. [GitHub](https://github.com/microsoft/CodeBERT)|[paper](https://arxiv.org/pdf/2002.08155.pdf)
  <li> Knowledge-enhanced pre-trained model. [K-Adapter] 
  <li> Machine reasoning. Develop models to 
