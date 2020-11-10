@@ -6,13 +6,13 @@ Duyu joined Microsoft Research Asia in 2016, after receiving his Ph.D. and M.S. 
 
 Duyu served on the program committees of top NLP/AI conferences: ACL (2016-2020), EMNLP (2015-2020), NeurIPS (2018/2020), TACL (2020-2022), NAACL (2018/2019), ICLR (2021). He was area chairs for EMNLP 2020 and ACL 2021. Duyu is recognized as the Most Influential Scholar Award Honorable Mention (Rank #65, 2009–2019) by AMiner, and a recipient of CIPS Best Ph.D. Thesis Awards in 2016.
 
-The recent works include 
+## Recent Projects
 
 <ol>
- <li> CodeXGLUE. 
- <li> CodeBERT.
- <li> K-Adapter.
- <li> Machine Reasoning. 
+ <li> <strong>CodeXGLUE</strong>. The first machine learning benchmark dataset to support multiple AI for software engineering tasks. [GitHub](https://github.com/microsoft/CodeXGLUE) | [Microsoft Research blog](https://www.microsoft.com/en-us/research/blog/codexglue-a-benchmark-dataset-and-open-challenge-for-code-intelligence/) | paper
+ <li> CodeBERT. The first pre-trained model for natural language and programming language. [GitHub](https://github.com/microsoft/CodeBERT)|[paper](https://arxiv.org/pdf/2002.08155.pdf)
+ <li> Knowledge-enhanced pre-trained model. [K-Adapter] 
+ <li> Machine reasoning. Develop models to 
  </ol>
 
 ## Talks
