@@ -15,7 +15,7 @@ Duyu served on the program committees of top NLP/AI conferences: ACL (2016-2020)
 <li> <strong>Knowledge-driven machine reasoning</strong>. Inject logic, symbolic, and evidence into neural models to handle natural language understanding and generation tasks. (1) The leading system on <a href="https://competitions.codalab.org/competitions/18814">FEVER leaderboard</a> (by 08/21/2019) for the task of fact checking [<a href="https://arxiv.org/pdf/1909.03745.pdf">paper</a>]; (2) The leading system on <a href="https://www.tau-nlp.org/csqa-leaderboard">CommonsenseQA leaderboard</a> (by 08/24/2019) for the task of question answering [<a href="https://arxiv.org/pdf/1909.05311.pdf">paper</a>]</li>
 </ol>
 
-## Talks
+## Talks/Tutorials
 <ol>
  <li> Gave a tutorial on <a href="https://www.aclweb.org/anthology/2020.emnlp-tutorials.1.pdf">Machine Reasoning: Technology, Dilemma and Future</a> at EMNLP-2020 with Nan Duan and Ming Zhou, 16th –20th November 2020</li>
  <li> Gave a tutorial on <a href="https://github.com/tangduyu/tangduyu.github.io/blob/master/files/machine%20reasoning%20in%20NLP-nlpcc-2020.pdf">Machine Reasoning in NLP</a> at NLPCC-2020, 14th - 18th October, 2020</li>
