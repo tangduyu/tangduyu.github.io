@@ -6,6 +6,15 @@ Duyu joined Microsoft Research Asia in 2016, after receiving his Ph.D. and M.S. 
 
 Duyu served on the program committees of top NLP/AI conferences: ACL (2016-2020), EMNLP (2015-2020), NeurIPS (2018/2020), TACL (2020-2022), NAACL (2018/2019), ICLR (2021). He was area chairs for EMNLP 2020 and ACL 2021. Duyu is recognized as the Most Influential Scholar Award Honorable Mention (Rank #65, 2009–2019) by AMiner, and a recipient of CIPS Best Ph.D. Thesis Awards in 2016.
 
+The recent works include 
+
+<ol>
+ <li> CodeXGLUE. 
+ <li> CodeBERT.
+ <li> K-Adapter.
+ <li> Machine Reasoning. 
+ </ol>
+
 ## Talks
 <ol>
  <li> Give a tutorial with Nan Duan and Ming Zhou on Machine Reasoning at EMNLP-2020, 16th –20th November 2020</li>
