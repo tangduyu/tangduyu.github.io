@@ -17,7 +17,7 @@ Duyu served on the program committees of top NLP/AI conferences: ACL (2016-2020)
 
 ## Talks/Tutorials
 <ol>
- <li> Gave a tutorial on <a href="https://www.aclweb.org/anthology/2020.emnlp-tutorials.1.pdf">Machine Reasoning: Technology, Dilemma and Future</a> at EMNLP-2020 together with Nan Duan and Ming Zhou, 16th –20th November 2020</li>
+ <li> Gave a tutorial on <a href="https://slideslive.com/38940827/t4-machine-reasoning-technology-dilemma-and-future">Machine Reasoning: Technology, Dilemma and Future</a> at EMNLP-2020 together with Nan Duan and Ming Zhou, 16th –20th November 2020</li>
  <li> Gave a tutorial on <a href="https://github.com/tangduyu/tangduyu.github.io/blob/master/files/machine%20reasoning%20in%20NLP-nlpcc-2020.pdf">Machine Reasoning in NLP</a> at NLPCC-2020, 14th - 18th October, 2020</li>
  <li> Gave a tutorial on <a href="tangduyu.github.io/files/knowledge-driven QA and SP-caai-2019.pdf">knowledge-based machine reasoning</a> at CAAI-AIDL （中国人工智能学会-AI前沿讲习班）, Shanghai, Dec 14-15, 2019</li>
  <li> Gave a tutorial on <a href="tangduyu.github.io/files/semantic-parsing-CIPS-ATT-2019.pdf">semantic parsing</a> at CIPS-ATT （中国中文信息学会-前沿技术讲习班）, Beijing, July 12-13, 2019</li>
