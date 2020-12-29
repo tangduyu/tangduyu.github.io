@@ -15,7 +15,7 @@ Duyu served on the program committees of top NLP/AI conferences including ACL, E
 
 <li> <strong>Machine Reasoning</strong>. Inject logic, symbolic, and evidence into neural models to tackle natural language processing problems. (1) The leading system on <a href="https://competitions.codalab.org/competitions/18814">FEVER leaderboard</a> (by 08/21/2019) for the task of fact checking [<a href="https://arxiv.org/pdf/1909.03745.pdf">paper</a>]; (2) The leading system on <a href="https://www.tau-nlp.org/csqa-leaderboard">CommonsenseQA leaderboard</a> (by 08/24/2019) for the task of question answering [<a href="https://arxiv.org/pdf/1909.05311.pdf">paper</a>].</li>
 
-<li> <strong>Knowledge-enhanced pre-trained model</strong>. Infuse knowledge into pre-trained models (e.g. BERT). (1) Neural adapters (K-Adapter) that support continual knowledge infusion (including linguistic and factual knowledge) into pre-trained model [<a href="https://github.com/microsoft/k-adapter">GitHub repo</a>|<a href="https://arxiv.org/abs/2002.01808">paper</a>]; (2) coming soon</li>
+<li> <strong>Knowledge-enhanced pre-trained model</strong>. Infuse knowledge into pre-trained models (e.g. BERT). (1) Neural adapters (K-Adapter) that support continual knowledge infusion (including linguistic and factual knowledge) into pre-trained model [<a href="https://github.com/microsoft/k-adapter">GitHub repo</a>|<a href="https://arxiv.org/abs/2002.01808">paper</a>]; (2) Inject dependency syntax of text into pre-trained model [<a href="https://arxiv.org/abs/2012.14116">paper</a>]</li>
 </ol>
 
 ## Talks/Tutorials
@@ -92,6 +92,7 @@ Recent works could be found from my <a href="https://scholar.google.com/citation
 
 ### Preprints/Workshop/Technical Reports/Others
 <ol>
+ <li> Zenan Xu<sup>#</sup>, Daya Guo<sup>#</sup>, Duyu Tang, Qinliang Su, Linjun Shou, Ming Gong, Wanjun Zhong<sup>#</sup>, Xiaojun Quan, Nan Duan, Daxin Jiang. Syntax-Enhanced Pre-trained Model. arxiv, 2020</li>
 <li> Daya Guo<sup>#</sup>, Shuo Ren, Shuai Lu<sup>#</sup>, Zhangyin Feng<sup>#</sup>, Duyu Tang, Shujie Liu, Long Zhou, Nan Duan, Alexey Svyatkovskiy, Shengyu Fu, Michele Tufano, Shao Kun Deng, Colin Clement, Dawn Drain, Neel Sundaresan, Jian Yin, Daxin Jiang, Ming Zhou. GraphCodeBERT: Pre-training Code Representations with Data Flow. arxiv, 2020</li>
 <li>Ruize Wang<sup>#</sup>, Duyu Tang, Nan Duan, Zhongyu Wei, Xuanjing Huang, Jianshu ji, Guihong Cao, Daxin Jiang, Ming Zhou. K-Adapter: Infusing Knowledge into Pre-Trained Models with Adapters. arxiv, 2020</li>
 <li>Shuo Ren, Daya Guo, Shuai Lu, Long Zhou, Shujie Liu, Duyu Tang, Neel Sundaresan, Ming Zhou, Ambrosio Blanco, Shuai Ma. CodeBLEU: a Method for Automatic Evaluation of Code Synthesis. arxiv, 2020</li>
