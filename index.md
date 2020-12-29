@@ -15,7 +15,7 @@ Duyu served on the program committees of top NLP/AI conferences including ACL, E
 
 <li> <strong>Machine Reasoning</strong>. Inject logic, symbolic, and evidence into neural models to tackle natural language processing problems. (1) The leading system on <a href="https://competitions.codalab.org/competitions/18814">FEVER leaderboard</a> (by 08/21/2019) for the task of fact checking [<a href="https://arxiv.org/pdf/1909.03745.pdf">paper</a>]; (2) The leading system on <a href="https://www.tau-nlp.org/csqa-leaderboard">CommonsenseQA leaderboard</a> (by 08/24/2019) for the task of question answering [<a href="https://arxiv.org/pdf/1909.05311.pdf">paper</a>].</li>
 
-<li> <strong>Knowledge-enhanced pre-trained model</strong>. Infuse knowledge into pre-trained models (e.g. BERT). (1) Neural adapters (K-Adapter) that support continual knowledge infusion (including linguistic and factual knowledge) into pre-trained model [<a href="https://github.com/microsoft/k-adapter">GitHub repo</a>|<a href="https://arxiv.org/abs/2002.01808">paper</a>]; (2) Inject dependency syntax of text into pre-trained model [<a href="https://arxiv.org/abs/2012.14116">paper</a>]</li>
+<li> <strong>Knowledge-enhanced pre-trained model</strong>. Infuse knowledge into pre-trained models (e.g. BERT). (1) Neural adapters (K-Adapter) that support continual knowledge infusion (including linguistic and factual knowledge) into pre-trained model [<a href="https://github.com/microsoft/k-adapter">GitHub repo</a>|<a href="https://arxiv.org/abs/2002.01808">paper</a>]; (2) Inject syntax of text (distances among words in dependency tree) into pre-trained model [<a href="https://arxiv.org/abs/2012.14116">paper</a>]</li>
 </ol>
 
 ## Talks/Tutorials
