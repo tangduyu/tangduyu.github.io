@@ -3,7 +3,7 @@
 Duyu Tang (唐都钰) is a Senior Researcher in Natural Language Computing group of Microsoft Research Asia, working on natural language processing (NLP).
 
 Duyu joined Microsoft Research Asia in 2016, after receiving his Ph.D. and M.S. in Computer Science from Harbin Institute of Technology. Duyu’s research has been advancing the state of art of accurate, interpretable and trustworthy NLP systems, while making direct technical contributions to production. Over the years, Duyu worked on a wide range of NLP problems, from sentiment analysis, question answering, conversational semantic parsing,  machine reasoning of text, to code intelligence (i.e., AI for software engineering).
-
+Many techniques from Duyu and his team have been used in Microsoft products, including Bing, Microsoft News, Visual Studio, etc.
 Duyu served on the program committees of top NLP/AI conferences including ACL, EMNLP, NeurIPS, TACL, NAACL, ICLR, etc. He was area chair for EMNLP and ACL. He is a recipient of CIPS Best Ph.D. Thesis Awards (中国中文信息学会优秀博士论文） in 2016. Duyu has 6,000+ citations according to Google Scholar.
 
 <strong> We are hiring both interns and employees! Please send me your resume via email (dutang@microsoft.com) if you are interested in working with us on code intelligence and machine reasoning.</strong>
