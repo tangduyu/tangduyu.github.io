@@ -6,7 +6,6 @@ Duyu joined Microsoft Research Asia in 2016, after receiving his Ph.D. and M.S. 
 Many techniques from Duyu and his team have been used in Microsoft products, including Bing, Microsoft News, Visual Studio, etc.
 Duyu served on the program committees of top NLP/AI conferences including ACL, EMNLP, NeurIPS, TACL, NAACL, ICLR, etc. He was area chair for EMNLP and ACL. He is a recipient of CIPS Best Ph.D. Thesis Awards in 2016. Duyu has 6,000+ citations according to Google Scholar.
 
-<strong> We are hiring both interns and employees! Please send me your resume via email (dutang@microsoft.com) if you are interested in working with us on code intelligence and machine reasoning.</strong>
 
 ## Recent Projects
 
